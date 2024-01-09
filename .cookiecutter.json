@@ -1,0 +1,16 @@
+{
+  "_checkout": null,
+  "_output_dir": "C:\\Users\\jeffm\\OneDrive\\Documents\\GitHub\\py.sports",
+  "_repo_dir": "C:\\Users\\jeffm\\.cookiecutters\\cookiecutter-hypermodern-python",
+  "_template": "https://github.com/cjolowicz/cookiecutter-hypermodern-python.git",
+  "author": "Jeff Maxey",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 2 - Pre-Alpha",
+  "email": "jeffmaxey@comcast.net",
+  "friendly_name": "Py.Sports",
+  "github_user": "jeffamaxey",
+  "license": "MIT",
+  "package_name": "pysports",
+  "project_name": "py.sports",
+  "version": "0.0.0"
+}
